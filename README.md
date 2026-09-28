@@ -1,1 +1,12 @@
-# eshwari-traders
+eshwari-traders
+│
+├── index.html
+├── style.css
+├── script.js
+│
+└── images
+    ├── logo.png
+    ├── shop.jpg
+    ├── tmt.jpg
+    └── products.jpg
+    
